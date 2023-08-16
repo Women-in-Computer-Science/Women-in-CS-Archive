@@ -1,0 +1,42 @@
+site_name: Women In Computer Science Community 
+site_description: This is a site for archiving discussions in the community of Women-in-Computer-Science.
+site_author: 'Women In CS'
+
+theme: 
+   name: 'material'
+
+copyright: 'Copyright &copy; 2023 Women In CS'
+
+repo_name: 'GitHub'
+docs_dir: docs/
+repo_url: https://github.com/VickyGuo0907/Women-in-CS-Archive
+edit_uri: edit/main/docs/
+
+# Plugins
+plugins:
+  - search
+
+# Launch external urls in separate tab
+extra_javascript:
+  - js/links_in_new_tabs.js
+
+markdown_extensions:
+  - admonition
+  - codehilite
+  - smarty
+  - meta
+  - toc:
+      permalink: True
+  - attr_list
+  
+#Page tree
+nav:
+  - Home: index.md
+  - About: about.md
+  - Samples:
+      - Sample Page A: sample-a.md
+      - Sample Subfolder:
+          - Sample Subpage A1: a/sample-a1.md
+          - Sample Subpage A2: a/sample-a2.md
+      - Sample Page B: sample-b.md
+
