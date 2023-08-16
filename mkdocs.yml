@@ -34,7 +34,7 @@ nav:
   - 我们的想法: index.md
   - 关于我们: about.md
   - 机器学习和人工智能:
-      - Home: mi-ai/index.md
+      - Home: ml_ai/index.md
   - 职场新人:
       - Home: newbie/index.md
 
