@@ -1,7 +1,7 @@
 # Women-in-CS-Archive
 
 
-![gitpage deployment](https://github.com/VickyGuo0907/cloud-learning/workflows/CI%20github%20pages/badge.svg?branch=main)
+[![Gitpage deployment](https://github.com/VickyGuo0907/Women-in-CS-Archive/actions/workflows/docs.yml/badge.svg)](https://github.com/VickyGuo0907/Women-in-CS-Archive/actions/workflows/docs.yml)
 
 ## Overview
 
