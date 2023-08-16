@@ -31,12 +31,10 @@ markdown_extensions:
   
 #Page tree
 nav:
-  - Home: index.md
-  - About: about.md
-  - Samples:
-      - Sample Page A: sample-a.md
-      - Sample Subfolder:
-          - Sample Subpage A1: a/sample-a1.md
-          - Sample Subpage A2: a/sample-a2.md
-      - Sample Page B: sample-b.md
+  - 我们的想法: index.md
+  - 关于我们: about.md
+  - 机器学习和人工智能:
+      - Home: mi-ai/index.md
+  - 职场新人:
+      - Home: newbie/index.md
 
