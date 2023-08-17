@@ -9,7 +9,7 @@ copyright: 'Copyright &copy; 2023 Women In CS'
 
 repo_name: 'GitHub'
 docs_dir: docs/
-repo_url: https://github.com/VickyGuo0907/Women-in-CS-Archive
+repo_url: https://github.com/kwyyangfan/Women-in-CS-Archive
 edit_uri: edit/main/docs/
 
 # Plugins
@@ -31,10 +31,10 @@ markdown_extensions:
   
 #Page tree
 nav:
-  - 我们的想法: index.md
-  - 关于我们: about.md
-  - 机器学习和人工智能:
-      - Home: ml_ai/index.md
+  - Women in Computer Science社区介绍: index.md
+  - 本文档使用规则: about.md
+  - Archive:
+      - By Date: ml_ai/index.md
   - 职场新人:
       - Home: newbie/index.md
 
