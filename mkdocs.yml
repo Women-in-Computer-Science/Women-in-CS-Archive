@@ -34,7 +34,7 @@ nav:
   - WiCS社区介绍: index.md
   - 本文档使用规则: about.md
   - Archive:
-      - By Date: By Date/index.md
-      - By Category: By Category/index.md
+      - By Date: by_date/index.md
+      - By Category: by_category/index.md
           
 
