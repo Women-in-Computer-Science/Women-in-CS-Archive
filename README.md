@@ -1,7 +1,7 @@
 # Women-in-CS-Archive
 
 
-[![Gitpage deployment](https://github.com/VickyGuo0907/Women-in-CS-Archive/actions/workflows/docs.yml/badge.svg)](https://github.com/VickyGuo0907/Women-in-CS-Archive/actions/workflows/docs.yml)
+[![Gitpage deployment](https://github.com/kwyyangfan/Women-in-CS-Archive/actions/workflows/docs.yml/badge.svg)](https://github.com/kwyyangfan/Women-in-CS-Archive/actions/workflows/docs.yml)
 [![Made with MkDocs](https://img.shields.io/badge/mkdocs-1-blue)](https://www.mkdocs.org/)
 
 
