@@ -1,5 +1,13 @@
-#  欢迎来到Women in Computer Science Archive Site 
+#  欢迎来到Women in Computer Science Archive
 
 ## Introduction
+Women in Compter Science是女性计算机相关从业者社区。
+
+我们是从事或就读计算机科学、人工智能、软件工程、信息技术、网络安全、电子信息以及其他相关专业的女性。
+
+无论你在世界的哪个角落，无论你在工业界还是学术界，无论你是在校学生还是职场打拼多年，无论你想分享还是求助，这里都欢迎你。
+
+在这里，我们可以传授经验，可以吐槽不快，可以组队升级，可以互帮互助，可以互通有无。。。来了就有无限可能🥰
+
 
 ## Mission
