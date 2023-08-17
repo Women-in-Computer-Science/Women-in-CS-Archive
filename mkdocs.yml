@@ -31,10 +31,255 @@ markdown_extensions:
   
 #Page tree
 nav:
-  - Women in Computer Science社区介绍: index.md
+  - WiCS社区介绍: index.md
   - 本文档使用规则: about.md
   - Archive:
-      - By Date: ml_ai/index.md
-  - 职场新人:
-      - Home: newbie/index.md
+      - By Date: 
+          - 2023/08/21-2023/08/27: ml_ai/index.md
+          - 2023/08/28-2023/09/03: 
+      - By Category: newbie/index.md
+site_name: Women In Computer Science Community 
+site_description: This is a site for archiving discussions in the community of Women-in-Computer-Science.
+site_author: 'Women In CS'
+
+
+theme: 
+   name: 'material'
+
+
+copyright: 'Copyright &copy; 2023 Women In CS'
+
+
+repo_name: 'GitHub'
+docs_dir: docs/
+repo_url: https:github.com/kwyyangfan/Women-in-CS-Archive
+edit_uri: edit/main/docs/
+
+
+# Plugins
+plugins:
+  - search
+
+
+# Launch external urls in separate tab
+extra_javascript:
+  - js/links_in_new_tabs.js
+
+
+markdown_extensions:
+  - admonition
+  - codehilite
+  - smarty
+  - meta
+  - toc:
+      permalink: True
+  - attr_list
+
+#Page tree
+nav:
+  - WiCS社区介绍: index.md
+  - 本文档使用规则: about.md
+- Archive:
+      - By Date: 
+          - 2023/08/21-2023/08/27: ml_ai/index.md
+          - 2023/08/28-2023/09/03: 
+      - By Category: newbie/index.md
+
+site_name: Women In Computer Science Community 
+site_description: This is a site for archiving discussions in the community of Women-in-Computer-Science.
+site_author: 'Women In CS'
+
+
+theme: 
+   name: 'material'
+
+
+copyright: 'Copyright &copy; 2023 Women In CS'
+
+
+repo_name: 'GitHub'
+docs_dir: docs/
+repo_url: https:github.com/kwyyangfan/Women-in-CS-Archive
+edit_uri: edit/main/docs/
+
+
+# Plugins
+plugins:
+  - search
+
+
+# Launch external urls in separate tab
+extra_javascript:
+  - js/links_in_new_tabs.js
+
+
+markdown_extensions:
+  - admonition
+  - codehilite
+  - smarty
+  - meta
+  - toc:
+      permalink: True
+  - attr_list
+
+#Page tree
+nav:
+  - WiCS社区介绍: index.md
+  - 本文档使用规则: about.md
+- Archive:
+      - By Date: 
+          - 2023/08/21-2023/08/27: ml_ai/index.md
+          - 2023/08/28-2023/09/03: 
+      - By Category:
+          - 学习: 
+              - 升学资讯: newbie/index.md
+              - 学习资源:
+- By Date: 
+          - 2023/08/21-2023/08/27: ml_ai/index.md
+          - 2023/08/28-2023/09/03: 
+      - By Category: newbie/index.md
+
+
+site_name: Women In Computer Science Community 
+site_description: This is a site for archiving discussions in the community of Women-in-Computer-Science.
+site_author: 'Women In CS'
+
+
+
+
+theme: 
+   name: 'material'
+
+
+
+
+copyright: 'Copyright &copy; 2023 Women In CS'
+
+
+
+
+repo_name: 'GitHub'
+docs_dir: docs/
+repo_url: https:github.com/kwyyangfan/Women-in-CS-Archive
+edit_uri: edit/main/docs/
+
+
+
+
+# Plugins
+plugins:
+  - search
+
+
+
+
+# Launch external urls in separate tab
+extra_javascript:
+  - js/links_in_new_tabs.js
+
+
+
+
+markdown_extensions:
+  - admonition
+  - codehilite
+  - smarty
+  - meta
+  - toc:
+      permalink: True
+  - attr_list
+
+
+#Page tree
+nav:
+  - WiCS社区介绍: index.md
+  - 本文档使用规则: about.md
+- Archive:
+      - By Date: 
+          - 2023/08/21-2023/08/27: ml_ai/index.md
+          - 2023/08/28-2023/09/03: 
+      - By Category:
+          - 学习: 
+              - 升学资讯: newbie/index.md
+              - 学习资源:
+
+
+- By Date: 
+          - 2023/08/21-2023/08/27: ml_ai/index.md
+          - 2023/08/28-2023/09/03: 
+      - By Category: newbie/index.md
+
+
+site_name: Women In Computer Science Community 
+site_description: This is a site for archiving discussions in the community of Women-in-Computer-Science.
+site_author: 'Women In CS'
+
+
+
+
+theme: 
+   name: 'material'
+
+
+
+
+copyright: 'Copyright &copy; 2023 Women In CS'
+
+
+
+
+repo_name: 'GitHub'
+docs_dir: docs/
+repo_url: https:github.com/kwyyangfan/Women-in-CS-Archive
+edit_uri: edit/main/docs/
+
+
+
+
+# Plugins
+plugins:
+  - search
+
+
+
+
+# Launch external urls in separate tab
+extra_javascript:
+  - js/links_in_new_tabs.js
+
+
+
+
+markdown_extensions:
+  - admonition
+  - codehilite
+  - smarty
+  - meta
+  - toc:
+      permalink: True
+  - attr_list
+
+
+#Page tree
+nav:
+  - WiCS社区介绍: index.md
+  - 本文档使用规则: about.md
+  - Archive:
+      - By Date: 
+          - 2023/08/21-2023/08/27: ml_ai/index.md
+          - 2023/08/28-2023/09/03: 
+      - By Category:
+          - 学习: 
+              - 升学资讯: newbie/index.md
+              - 学习资源:
+          - 工作: 
+              - 职业提升:
+              - 招聘信息:
+          - 生活: 
+              - 健康身心: 
+              - 女性主义:
+              - Run学研究:
+
+
+          
 
