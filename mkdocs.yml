@@ -34,19 +34,7 @@ nav:
   - WiCS社区介绍: index.md
   - 本文档使用规则: about.md
   - Archive:
-      - By Date: 
-          - 2023/08/21-2023/08/27: ml_ai/index.md
-          - 2023/08/28-2023/09/03: 
-      - By Category:
-          - 学习: 
-              - 升学资讯: newbie/index.md
-              - 学习资源:
-          - 工作: 
-              - 职业提升:
-              - 招聘信息:
-          - 生活: 
-              - 健康身心: 
-              - 女性主义:
-              - Run学研究:
+      - By Date: ml_ai/index.md
+      - By Category: newbie/index.md
           
 
