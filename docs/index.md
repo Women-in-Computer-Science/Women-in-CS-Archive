@@ -19,4 +19,4 @@ Women in Computer Science是一个致力于推动和支持女性在计算机科�
 
 **本网站是社区的Archives，收藏了Women in Computer Science社区的精华问答和资源分享**
 
-在此特别感谢。。。。。。等社区志愿者的辛勤整理和归档！感谢[蛋蛋](https://github.com/VickyGuo0907)为本网站的搭建和维护付出了宝贵的时间和精力！
+在此特别感谢[Will](https://github.com/will-lv) [小吴](https://github.com/unarelax) 等社区志愿者的辛勤整理和归档！感谢[蛋蛋](https://github.com/VickyGuo0907)为本网站的搭建和维护付出了宝贵的时间和精力！
