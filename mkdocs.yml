@@ -36,7 +36,7 @@ nav:
   - Archive:
       - By Date:
         - Index: by_date/index.md
-        - 20230731-20230806: 20230731-20230806.md
+        - 20230731-20230806: by_date/20230731-20230806.md
       - By Category: by_category/index.md
           
 
